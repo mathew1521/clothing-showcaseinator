@@ -1,5 +1,6 @@
 # Clothing Showcaseinator
 ![alt text](assets/icon.png)
+
 A tool intended for quickly creating showcases of classic (2D) Roblox clothing, so that you don't have to create them manually.
 
 # How to use it
